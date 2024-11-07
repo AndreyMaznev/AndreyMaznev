@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AndreyMaznev
-- 👀 I’m interested in music, bikes, cars, some FPS shooters.
-- 🌱 I’m currently learning Java, SQL, Spring Framework
+- 👀 I’m interested in music, Java codding, bikes, cars and gaming.
 - 💞️ I’m looking to collaborate on any Java projects.
 - 📫 You can reach me on email - andylifelover@gmail.com  
 
